@@ -3,9 +3,6 @@
   <h3 align="center">Educational Platform UI Prototype (Figma)</h3>
 </p>
 
-<p align="center">
-  <b>UI/UX Design • Figma • Educational Platform • Prototype</b>
-</p>
 
 ---
 
