@@ -31,18 +31,18 @@ https://www.figma.com/design/hO714QgXVL2IUg4A9v5FTv/iGradAI-Labs?node-id=0-1&t=f
 ## 🖼️ UI Screens
 
 <p align="center">
-  <img src="https://i.ibb.co/DgYtcn3V/Signup.png" width="45%" />
-  <img src="https://i.ibb.co/7N1WCKpz/Overview.png" width="45%" />
+  <img src="https://i.ibb.co/DgYtcn3V/Signup.png" width="48%" />
+  <img src="https://i.ibb.co/7N1WCKpz/Overview.png" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/kVdfPfdX/Calender.png" width="45%" />
-  <img src="https://i.ibb.co/ZvpmCzm/Quiz.png" width="45%" />
+  <img src="https://i.ibb.co/kVdfPfdX/Calender.png" width="48%" />
+  <img src="https://i.ibb.co/ZvpmCzm/Quiz.png" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/LXzZn3Bt/courses.png" width="45%" />
-  <img src="https://i.ibb.co/fGQqTxxP/Main-page.png" width="45%" />
+  <img src="https://i.ibb.co/LXzZn3Bt/courses.png" width="48%" />
+  <img src="https://i.ibb.co/fGQqTxxP/Main-page.png" width="48%" />
 </p>
 
 ---
@@ -50,9 +50,9 @@ https://www.figma.com/design/hO714QgXVL2IUg4A9v5FTv/iGradAI-Labs?node-id=0-1&t=f
 ## 🎬 Prototype Preview
 
 <p align="center">
-  <img src="https://i.ibb.co/k60vXDT0/prototype.png" width="30%" />
-  <img src="https://i.ibb.co/gF7pKc7z/prototype-2.png" width="30%" />
-  <img src="https://i.ibb.co/DgYtcn3V/Signup.png" width="30%" />
+  <img src="https://i.ibb.co/k60vXDT0/prototype.png" width="32%" />
+  <img src="https://i.ibb.co/gF7pKc7z/prototype-2.png" width="32%" />
+  <img src="https://i.ibb.co/1tZzQxkP/prototype-3.png" width="32%" />
 </p>
 
 ## 🎯 Features Designed
