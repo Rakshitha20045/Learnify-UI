@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-**Learnify** is a prototype of an educational platform UI designed in Figma.  
+Learnify is a prototype of an educational platform UI designed in Figma.  
 It demonstrates modern UI/UX design principles, clean layout structure, and a user-friendly interface for an online learning platform.
 
 This prototype focuses on providing an intuitive and engaging experience for students to access courses, quizzes, and learning dashboards.
